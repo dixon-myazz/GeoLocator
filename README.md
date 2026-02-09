@@ -19,13 +19,14 @@
 ## Screenshots
 
 Here’s a quick look at GeoLocator in action:
-
-![GeoLocator Example 1](<img width="957" height="483" alt="image" src="https://github.com/user-attachments/assets/e9259af0-a8b1-4ef4-ab66-ca6130c53b28" />)  
+  
 *Example: Searching for an IP address*
 
-![GeoLocator Example 2](<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/66ed9e70-f562-4215-9552-7b9f4cce8d71" />)  
+<img width="957" height="483" alt="image" src="https://github.com/user-attachments/assets/e9259af0-a8b1-4ef4-ab66-ca6130c53b28" />
+  
 *Example: Output with location details*
 
+<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/66ed9e70-f562-4215-9552-7b9f4cce8d71" />
 ---
 
 ## Getting Started
